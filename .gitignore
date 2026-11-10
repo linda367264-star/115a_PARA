@@ -1,0 +1,15 @@
+# Visual Studio / C# 編譯產物
+bin/
+obj/
+*.user
+*.suo
+*.cache
+.vs/
+
+# Rhino / Grasshopper 暫存檔
+*.3dm.bak
+*.3dmbak
+*.gh~
+
+# 系統檔
+.DS_Store
